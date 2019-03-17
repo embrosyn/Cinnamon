@@ -432,6 +432,12 @@ cinnamon (4.0.10) unstable; urgency=medium
 
  -- Clement Lefebvre <root@linuxmint.com>  Thu, 28 Mar 2019 11:10:59 +0000
 
+cinnamon (4.0.9-1~ubuntuReleaseName0) ubuntuReleaseName; urgency=medium
+
+  * New upstream release
+
+ -- embrosyn <embrosyn@netc.eu>  Mon, 18 Mar 2019 00:48:22 +0100
+
 cinnamon (4.0.9) tessa; urgency=medium
 
   [ Michael Webster ]
