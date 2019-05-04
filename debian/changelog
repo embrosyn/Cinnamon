@@ -432,6 +432,12 @@ cinnamon (4.0.10) unstable; urgency=medium
 
  -- Clement Lefebvre <root@linuxmint.com>  Thu, 28 Mar 2019 11:10:59 +0000
 
+cinnamon (4.0.9-1~ubuntuReleaseName1) ubuntuReleaseName; urgency=medium
+
+  * Replace 'gnome-icon-theme-symbolic' dependency with 'adwaita-icon-theme-full'
+
+ -- embrosyn <embrosyn@netc.eu>  Sun, 05 May 2019 00:22:35 +0200
+
 cinnamon (4.0.9-1~ubuntuReleaseName0) ubuntuReleaseName; urgency=medium
 
   * New upstream release

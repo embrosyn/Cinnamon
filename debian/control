@@ -45,6 +45,7 @@ Package: cinnamon
 Architecture: any
 Pre-Depends: ${misc:Pre-Depends}
 Depends:
+ adwaita-icon-theme-full,
  cinnamon-common,
  cinnamon-control-center,
  cinnamon-desktop-data,
@@ -71,7 +72,6 @@ Depends:
  gir1.2-upowerglib-1.0,
  gir1.2-xapp-1.0 (>= 1.0.4~),
  gkbd-capplet,
- gnome-icon-theme-symbolic (>= 2.91),
  gsettings-desktop-schemas (>= 0.1.7),
  iso-flag-png,
  libcanberra-pulse,
